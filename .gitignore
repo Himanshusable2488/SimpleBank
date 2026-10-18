@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# App output (created when you run the program)
+logs/
+exports/
+*.db
+
+# Editor / OS
+.vscode/
+.DS_Store
